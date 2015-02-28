@@ -1,0 +1,23 @@
+//TODO 
+
+//android
+	inserire tutti i bottoni 
+	label temperatura
+	op. progress per il PWM 
+	creare metodo per lo status 
+	e la temperatura
+	opzionale PWM
+	layout bottoni 
+	impostazioni e settaggi 
+
+//esp 
+	cambiare porta 
+	mettere ip statico 
+	aggiungere metodo post per lo status
+	aggiungere status temperatura
+	aggiungere settaggio pwm 
+	migliorare pagina web  
+	
+
+secondaria ma non meno importante 
+trovare metodo per autenticazione
